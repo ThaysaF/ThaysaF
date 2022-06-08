@@ -1,6 +1,6 @@
 ### Olá! Me chamo Thaysa Fernanda
 
-- 🌱 Atualmente estudo C# e HTML
+- 🌱 Atualmente estudo Java e desenvolvimento web
 - 😄 Pronouns: ela/dela
 - ⚡ Amo tecnologia e design.
 
