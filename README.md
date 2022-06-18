@@ -1,6 +1,7 @@
 ### Olá! Me chamo Thaysa Fernanda
 
 - 🌱 Atualmente estudo Java e desenvolvimento web
+- 👩‍💻 Estudante de Engenharia de Software
 - 😄 Pronouns: ela/dela
 - ⚡ Amo tecnologia e design.
 
